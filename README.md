@@ -24,3 +24,11 @@ When the script is executed:
 - If the job closing date is approaching, it sends reminder emails.
 - Repeats the process daily until the job closing date is sufficiently far in the future.
 - By automating these tasks, the script helps keep track of job opportunities and ensures timely reminders for application deadlines.
+
+## EMAIL SENT AND RECEIVED WHILE TESTING
+# Sent
+![Email sent while testing](https://github.com/moformajor/Python_NHS_WEB_SCRAPING/assets/75061106/6e5069d5-bfa8-405c-9b5b-5baac881bd9d)
+
+# Received
+![Emails received while testing](https://github.com/moformajor/Python_NHS_WEB_SCRAPING/assets/75061106/75776712-3b8b-47e1-b285-83893f99509b)
+
