@@ -1,6 +1,6 @@
 # Python_NHS_WEB_SCRAPING and Email Notifier
 
-This Python script automates the process of checking an NHS job posting daily, recording the job details into a CSV file, and sending email notifications based on the job's closing date.
+This Python script automates the process of scraping job information from the NHS job website, logging the details to a CSV file, and sending email notifications based on the job closing date. It runs daily and notifies the user when a job's closing date is imminent or has passed.
 
 ## Features
 - Web scraping of job details from an NHS job posting.
